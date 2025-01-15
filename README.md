@@ -4,8 +4,9 @@ Este proyecto implementa una API de inventario utilizando Spring Boot que permit
 
 ## Requisitos
 Antes de ejecutar el proyecto, asegúrate de tener los siguientes programas instalados:
-    Java
-    Apache Maven
+
+    -Java
+    -Apache Maven
 
 ## Clonar el Proyecto:
 Si aún no tienes el proyecto, clónalo.
@@ -23,9 +24,9 @@ La aplicación estará disponible en http://localhost:8080.
     
 ## Pruebas:
 Para ejecutar las pruebas unitarias del proyecto, usa el siguiente comando:
-    mvn test
+    - mvn test
 
 ## Tecnologías Utilizadas
-Spring Boot: Framework para crear aplicaciones Java.
-Maven: Herramienta de gestión de dependencias.
-Java: Lenguaje de programación.
+- Spring Boot: Framework para crear aplicaciones Java.
+- Maven: Herramienta de gestión de dependencias.
+- Java: Lenguaje de programación.
